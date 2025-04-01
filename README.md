@@ -1,6 +1,4 @@
 ## Reece Lee | BS Computer Science (June 2025)
-I'm currently working on my personal website for employers to view. 
-I am learning Javascript to prepare for an entry-level job in web development. 
 
 <!--
 **reecelee/reecelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
